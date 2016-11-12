@@ -9,11 +9,11 @@ Let's see how we can do it, please follow the below steps to get it done:
 1. Log in your cPanel account. 
 2. Navigate to Mail section > Default Address menu: 
 
-![]()
+![](pl_default_address_1.png)
 
 3.On the new page choose domain name from drop-down menu, check option Forward to email address and enter email address to which emails will be forwarded: 
 
-![]()
+![](pl_default_address_2.png)
 
 4. Click on Change to save change. 
 
